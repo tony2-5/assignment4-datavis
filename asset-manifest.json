@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/assignment4-datavis/static/css/main.56a6a87c.css",
+    "main.js": "/assignment4-datavis/static/js/main.00bb1021.js",
+    "index.html": "/assignment4-datavis/index.html",
+    "main.56a6a87c.css.map": "/assignment4-datavis/static/css/main.56a6a87c.css.map",
+    "main.00bb1021.js.map": "/assignment4-datavis/static/js/main.00bb1021.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56a6a87c.css",
+    "static/js/main.00bb1021.js"
+  ]
+}
